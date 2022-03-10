@@ -1,6 +1,6 @@
 const fetchOpt = {                          
     key: 'key=a21bbc1401c94828958202032220803', 
-    url: 'http://api.weatherapi.com/v1',        
+    url: 'https://api.weatherapi.com/v1',        
     methodes: {
       search: '/search.json',
       forecast: '/forecast.json',
